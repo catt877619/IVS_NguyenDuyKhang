@@ -1,0 +1,42 @@
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\BLL\bin\Debug\BLL.dll
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\BLL\bin\Debug\BLL.pdb
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\BLL\bin\Debug\Components.dll
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\BLL\bin\Debug\DAL.dll
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\BLL\bin\Debug\Models.dll
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\BLL\bin\Debug\MySql.Data.dll
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\BLL\bin\Debug\Dapper.dll
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\BLL\bin\Debug\Components.pdb
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\BLL\bin\Debug\DAL.pdb
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\BLL\bin\Debug\Models.pdb
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\BLL\bin\Debug\Dapper.xml
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\BLL\obj\Debug\BLL.dll
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\BLL\obj\Debug\BLL.pdb
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\BLL\bin\Debug\BLL.dll
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\BLL\bin\Debug\BLL.pdb
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\BLL\bin\Debug\Components.dll
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\BLL\bin\Debug\DAL.dll
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\BLL\bin\Debug\Models.dll
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\BLL\bin\Debug\MySql.Data.dll
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\BLL\bin\Debug\Dapper.dll
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\BLL\bin\Debug\Components.pdb
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\BLL\bin\Debug\DAL.pdb
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\BLL\bin\Debug\Models.pdb
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\BLL\bin\Debug\Dapper.xml
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\BLL\obj\Debug\BLL.dll
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\BLL\obj\Debug\BLL.pdb
+D:\ivs_trainning\IVS_Trainning\BLL\bin\Debug\BLL.dll
+D:\ivs_trainning\IVS_Trainning\BLL\bin\Debug\BLL.pdb
+D:\ivs_trainning\IVS_Trainning\BLL\bin\Debug\Components.dll
+D:\ivs_trainning\IVS_Trainning\BLL\bin\Debug\DAL.dll
+D:\ivs_trainning\IVS_Trainning\BLL\bin\Debug\Models.dll
+D:\ivs_trainning\IVS_Trainning\BLL\bin\Debug\MySql.Data.dll
+D:\ivs_trainning\IVS_Trainning\BLL\bin\Debug\Dapper.dll
+D:\ivs_trainning\IVS_Trainning\BLL\bin\Debug\Components.pdb
+D:\ivs_trainning\IVS_Trainning\BLL\bin\Debug\DAL.pdb
+D:\ivs_trainning\IVS_Trainning\BLL\bin\Debug\Models.pdb
+D:\ivs_trainning\IVS_Trainning\BLL\bin\Debug\Dapper.xml
+D:\ivs_trainning\IVS_Trainning\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\ivs_trainning\IVS_Trainning\BLL\obj\Debug\BLL.dll
+D:\ivs_trainning\IVS_Trainning\BLL\obj\Debug\BLL.pdb

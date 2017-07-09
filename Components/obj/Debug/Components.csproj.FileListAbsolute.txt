@@ -1,0 +1,15 @@
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\Components\bin\Debug\Components.dll
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\Components\bin\Debug\Components.pdb
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\Components\obj\Debug\Components.dll
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\Components\obj\Debug\Components.pdb
+C:\Users\qhp28\Documents\visual studio 2015\Projects\IVS_Fresher_QuachHuyPhong\Components\obj\Debug\Components.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\Components\bin\Debug\Components.dll
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\Components\bin\Debug\Components.pdb
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\Components\obj\Debug\Components.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\Components\obj\Debug\Components.dll
+C:\Users\nguye\Desktop\IVS_QuachHuyPhong-master\Components\obj\Debug\Components.pdb
+D:\ivs_trainning\IVS_Trainning\Components\bin\Debug\Components.dll
+D:\ivs_trainning\IVS_Trainning\Components\bin\Debug\Components.pdb
+D:\ivs_trainning\IVS_Trainning\Components\obj\Debug\Components.dll
+D:\ivs_trainning\IVS_Trainning\Components\obj\Debug\Components.pdb
+D:\ivs_trainning\IVS_Trainning\Components\obj\Debug\Components.csprojResolveAssemblyReference.cache
